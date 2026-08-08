@@ -1,0 +1,6 @@
+{
+  "name": "FirstSalary",
+  "description": "Beginner-friendly personal finance and salary management app for young professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
